@@ -1,6 +1,7 @@
 # Starter Web Project
   This is a simple website project for showing
   how to use git and git hub together. Adding aline for rebasing example
+  then more changes from my feature branch
 ## Introduction
   This example is to show different parts of git
   repository and various commands using aweb project.
