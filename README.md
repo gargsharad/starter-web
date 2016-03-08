@@ -13,4 +13,4 @@
 ## How to contribute
 
 ### Copyright
-  2014 Git. training
+  2014 Git. training more
